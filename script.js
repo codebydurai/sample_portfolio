@@ -90,4 +90,4 @@ profileImg.addEventListener("click", () => {
     profileImg.style.transform = "scale(1)";
   }, 500);
 });
-// \
+
